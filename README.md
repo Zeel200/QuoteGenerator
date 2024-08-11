@@ -23,7 +23,7 @@ Welcome to the **Random Quote Generator**! This web application displays a new "
 
 ## 🎥 Demo Video
 
-![Random Quote Generator Demo Video](https://youtu.be/7fgI59ZByJM)
+![Watch the demo video on YouTube](https://youtu.be/7fgI59ZByJM)
 
 ## 🤝 Contributing
 
