@@ -70,33 +70,26 @@ body {
     left: -30px;
 }
 
-/* Mobile styles */
+
 @media only screen and (max-width: 600px) {
     .quote-box span::before {
         width: 15px;
-        /* Reduce the width for mobile screens */
         left: 20px;
-        /* Adjust the left position for better alignment */
     }
 }
 
-/* Tablet styles */
+
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
     .quote-box span::before {
         width: 18px;
-        /* Slightly larger for tablets */
         left: -25px;
-        /* Adjust the left position accordingly */
     }
 }
 
-/* Laptop and larger screen styles */
 @media only screen and (min-width: 1025px) {
     .quote-box span::before {
         width: 20px;
-        /* Keep the original size for larger screens */
         left: -30px;
-        /* Keep the original position */
     }
 }
 
@@ -137,7 +130,6 @@ body {
     color: #333;
 }
 
-/* Mobile styles */
 @media only screen and (max-width: 600px) {
     .quote-box {
         width: 90%;
