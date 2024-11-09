@@ -4,7 +4,7 @@ document.getElementById('shareButton').addEventListener('click', async () => {
             await navigator.share({
                 title: 'Your Page Title',
                 text: 'Check out this awesome content!',
-                url: 'https://yourwebsite.com',
+                //url: 'https://yourwebsite.com',
             });
             console.log('Content shared successfully');
         } catch (error) {
